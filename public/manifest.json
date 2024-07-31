@@ -1,0 +1,8 @@
+{
+  "name": "wordlink",
+  "short_name": "wordlink",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
